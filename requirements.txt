@@ -13,3 +13,5 @@ safetensors
 numpy==1.26.4
 protobuf
 tokenizers==0.22.2
+uvicorn
+fastapi
